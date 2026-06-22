@@ -18,7 +18,7 @@ export function Hero(): ReactNode {
               <span aria-hidden="true" className="mx-0.5">
                 👋
               </span>
-              , I&rsquo;m Josh
+              , I&rsquo;m Vincent Sedimo
             </p>
 
             <h1 className="text-[2.75rem] font-medium leading-[1.05] tracking-tight text-foreground md:text-[2.5rem] lg:text-[3.65rem]">
@@ -42,7 +42,7 @@ export function Hero(): ReactNode {
                 <PortraitMorph
                   srcA={PORTRAIT_SRC}
                   srcB={PORTRAIT_HOVER_SRC}
-                  alt="Josh portrait"
+                  alt="Vincent Sedimo portrait"
                 />
               </div>
             </div>

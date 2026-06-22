@@ -9,7 +9,7 @@ export const siteConfig = {
   creator: "@yourhandle",
   authors: [
     {
-      name: "Your Name",
+      name: "Vincent Sedimo",
       url: "https://example.com",
     },
   ],
