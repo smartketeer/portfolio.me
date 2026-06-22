@@ -1,5 +1,6 @@
 lockfileVersion: '9.0'
 
+
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
@@ -62,7 +63,8 @@ importers:
         version: 3.8.3
       prettier-plugin-tailwindcss:
         specifier: ^0.7.2
-        version: 0.7.4(prettier@3.8.3)
+        version: 
+  '@babel/helper0.7.4(prettier@3.8.3)
       tailwindcss:
         specifier: ^4
         version: 4.2.4
@@ -117,8 +119,7 @@ packages:
   '@babel/helper-validator-identifier@7.28.5':
     resolution: {integrity: sha512-qSs4ifwzKJSV39ucNjsvc6WVHs6b7S03sOh2OcHF9UHfVPqWWALUsNUVzhSBiItjRZoLHx7nIarVjqKVusUZ1Q==}
     engines: {node: '>=6.9.0'}
-
-  '@babel/helper-validator-option@7.27.1':
+-validator-option@7.27.1':
     resolution: {integrity: sha512-YvjJow9FxbhFFKDSuFnVCe2WxXk1zWc22fFePVNEaWJEu8IrZVlda6N0uHwzZrUM1il7NC9Mlp4MaJYbYd9JSg==}
     engines: {node: '>=6.9.0'}
 
